@@ -1,1 +1,3 @@
 this is my password: lwjeridjoijrek123
+
+add the line 3 into the file and try to commit from VSCode
